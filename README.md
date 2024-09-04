@@ -21,7 +21,9 @@ cp:  Göğüs ağrısının türü.
 
       Value 2: Atipik angina.
 
-      Value 3: AnginaL olmayan ağrı. Value 4  Asemptomatik.
+      Value 3: AnginaL olmayan ağrı.
+      
+      Value 4:  Asemptomatik.
 
 trestbps:  Dinlenme durumundaki kan basıncı (mm Hg).
 
