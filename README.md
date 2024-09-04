@@ -9,7 +9,7 @@ Bu veri seti 1988'den kalmadır ve dört değişkenden oluşur: Cleveland, Macar
 
 | Age | Yaş |
 
-Sex: Cinsiyet.(0 = kadın; 1 = erkek)
+| Sex | Cinsiyet.(0 = kadın; 1 = erkek)|
 
 exang: Egzersize bağlı angina (göğüs ağrısı) (1 = var; 0 = yok)
 
