@@ -1,6 +1,7 @@
 # Proje Amacı 
 
 
+
 ![600x400_heart_illustration_xray](https://github.com/user-attachments/assets/fd54e8dd-348e-48f4-9721-009f8118c6a7)
 
 
@@ -14,7 +15,11 @@ exang:  Egzersize bağlı angina (göğüs ağrısı) (1 = var; 0 = yok)
 
 ca:  Büyük damar sayısı (0 - 3)
 
-cp:  Göğüs ağrısının türü. Value 1  Tipik angina. Value 2  Atipik angina. Value 3  AnginaL olmayan ağrı. Value 4  Asemptomatik.
+cp:  Göğüs ağrısının türü. 
+
+Value 1:Tipik angina.
+Value 2  Atipik angina. 
+Value 3  AnginaL olmayan ağrı. Value 4  Asemptomatik.
 
 trestbps:  Dinlenme durumundaki kan basıncı (mm Hg).
 
