@@ -10,11 +10,11 @@ Bu veri seti 1988'den kalmadır ve dört değişkenden oluşur: Cleveland, Macar
 | Age | Yaş |
 | Sex | Cinsiyet.(0 = kadın; 1 = erkek)|
 
-exang: Egzersize bağlı angina (göğüs ağrısı) (1 = var; 0 = yok)
+|exang| Egzersize bağlı angina (göğüs ağrısı) (1 = var; 0 = yok)|
 
-ca: Büyük damar sayısı (0 - 3)
+|ca:  | Büyük damar sayısı (0 - 3)|
 
-cp: Göğüs ağrısının türü. 
+|cp: | Göğüs ağrısının türü. |
 
       Value 1: Tipik angina.
 
