@@ -7,7 +7,7 @@ Bu veri seti 1988'den kalmadır ve dört değişkenden oluşur: Cleveland, Macar
 
 # VERİ SETİ
 
-|Feature | Description                                                  |
+|Değişken| Açıklama                                                     |
 | -------|--------------------------------------------------------------|
 | Age    | Yaş                                                          |
 | Sex    | Cinsiyet.(0 = kadın; 1 = erkek)                              |
