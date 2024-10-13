@@ -1,6 +1,6 @@
 # Proje Amacı 
 
-Bu veri seti 1988'den kalmadır ve dört değişkenden oluşur: Cleveland, Macaristan, İsviçre ve Long Beach V. Tahmin edilen değişken de dahil olmak üzere 76 değişken içerir, ancak yayınlanan tüm deneyler bunların 14'ünün bir alt kümesini kullanmaya atıfta bulunur. "Hedef" alanı hastada kalp hastalığının varlığının olup olmadığını ifade eder. Bütün modeller kulanıldı ve en başarılı Logistic Regression olmuştur. CatBoost modeli de tercih edilebilirdi.
+Bu veri seti 1988'den kalmadır ve 14 değişkenden oluşur: Cleveland, Macaristan, İsviçre ve Long Beach V. Tahmin edilen değişken de dahil olmak üzere 76 değişken içerir, ancak yayınlanan tüm deneyler bunların 14'ünün bir alt kümesini kullanmaya atıfta bulunur. "Hedef" alanı hastada kalp hastalığının varlığının olup olmadığını ifade eder. Bütün modeller kulanıldı ve en başarılı Logistic Regression olmuştur. CatBoost modeli de tercih edilebilirdi.
 
 ![600x400_heart_illustration_xray](https://github.com/user-attachments/assets/fd54e8dd-348e-48f4-9721-009f8118c6a7)
 
